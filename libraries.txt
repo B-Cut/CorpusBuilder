@@ -1,0 +1,9 @@
+junit
+testng
+easymock
+mockito-all
+mockito-core
+wiremock
+scala-test
+spring-test
+hamcrest-all
